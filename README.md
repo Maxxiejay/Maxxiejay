@@ -92,7 +92,7 @@ I'm experimenting with Flutter across **mobile, desktop, and game development**,
 
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Maxxiejay&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Find me around the web
 
