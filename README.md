@@ -1,7 +1,7 @@
 # Hey, I'm Maxwell 👋
 
 
-**Software Developer · Full-Stack Builder · Frontend & Backend Developer**
+**Software Developer · Frontend & Backend**
 
 
 I enjoy turning practical problems into useful software — from thoughtful user interfaces and interactive web applications to APIs, background jobs, and the systems that power them. I like working across the stack, bringing together a good user experience and a reliable foundation behind it.
@@ -92,6 +92,8 @@ I'm experimenting with Flutter across **mobile, desktop, and game development**,
 
 
 ---
+
+## Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Maxxiejay&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Find me around the web
