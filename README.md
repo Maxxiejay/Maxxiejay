@@ -91,7 +91,6 @@ I'm experimenting with Flutter across **mobile, desktop, and game development**,
 - 🤝 Open to meaningful collaborations around frontend and backend development, cross-platform apps, and developer tools.
 
 
----
 
 ## Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Maxxiejay&theme=dark&hide_border=true)](https://git.io/streak-stats)
